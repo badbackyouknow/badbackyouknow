@@ -1,3 +1,4 @@
-<img width="1280" height="331" alt="image" src="https://github.com/user-attachments/assets/5ed1ba4f-a651-4d12-ab0b-a0b6d331ef7e" />
+<div align="center"> 
+  <img src="https://64.media.tumblr.com/773c373f65a456afadf1294596869a80/27fc076e6d5bb0ae-ff/s1280x1920/ac603f3c98d0e55a3fdcbf86146bf6dadecfc46f.pnj">
 
 <p align="center"> <a> wip I don't know how to use GitHub </a> </p>
