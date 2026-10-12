@@ -3,7 +3,7 @@
 
 <details>
   <summary> info </summary>
-    <p> this is a side account, mostly for aesthetic! view my main, [vampire-of-fate](https://github.com/vampire-of-fate), for more extensive info. </p>
+    <p> this is a side account, mostly for aesthetic! view my main for more extensive info. </p>
 </details>
 
 <img width="150" height="20" alt="image" src="https://64.media.tumblr.com/dc322a759a9821fdbd66e8ce9f6e7e3d/a364ac8eef42b0d9-83/s250x400/bddd23b4cda98452579debf59791c394fe27c9db.gifv">
