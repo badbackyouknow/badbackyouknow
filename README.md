@@ -15,3 +15,6 @@ Shadow Milk, Bone, or Pierce ... he/it
 <img width="150" height="20" alt="image" src="https://64.media.tumblr.com/9a9babd617a4cbea6029a1545b28c777/078cca2e9779fecc-74/s250x400/0abb242b108735a8c10853c9d645e0dc74265a64.webp">
 
 <p align="center"> <a> wip I don't know how to use GitHub </a> </p>
+
+<img src="https://64.media.tumblr.com/c7976f33ee1b0f6388cf82bbf6e3848a/5983c063df5aee84-60/s1280x1920/3da9bf2ab0f6225efb79062e5a37170d19a797c9.pnj">
+</div>
