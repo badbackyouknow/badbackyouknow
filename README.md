@@ -17,7 +17,7 @@
 <p align="center">
 <details>
   <summary> info </summary>
-    <p> this is a side account, mostly for aesthetic. view my main for more extensive info. </p>
+    <p> this is a side account, mostly for aesthetic. view my main, <a href="https://github.com/vampire-of-fate">vampire-of-fate</a>, for more extensive info. </p>
     <p> I love Scar so much, he's one of my favorite villains ever! <3 </p>
     <p> I tend to be pretty blunt. Don't be afraid to interact; I don't bite. </p>
 </details>
