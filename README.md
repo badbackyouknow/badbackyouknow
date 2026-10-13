@@ -5,7 +5,7 @@
 <img src="https://64.media.tumblr.com/588158f25a83025f9c367a4ed109c862/5983c063df5aee84-54/s1280x1920/f53be16e1c832aeadd1e5faef0200e087eae2b38.pnj">
 
 <!-- scar PNG -->
-<img align="right" height="200" src="https://github.com/user-attachments/assets/adc4222e-f41c-418e-85a2-10647c0901a8"> </p> 
+<img align="right" height="300" src="https://github.com/user-attachments/assets/adc4222e-f41c-418e-85a2-10647c0901a8"> </p> 
 
 <!-- simple info -->
 <p align="center"> <a> Shadow Milk, Bone, or Pierce ... he/it </a> </p>
