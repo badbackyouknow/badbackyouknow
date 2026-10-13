@@ -15,9 +15,7 @@
 
 <p align="right">
 <img width="400" src="https://github.com/user-attachments/assets/adc4222e-f41c-418e-85a2-10647c0901a8">
-</p>
-
-<p align="left"> <a> Shadow Milk, Bone, or Pierce ... he/it </a> </p>
+</p> <p align="left"> <a> Shadow Milk, Bone, or Pierce ... he/it </a> </p>
 
 
 <p align="center"> <a> wip I don't know how to use GitHub </a> </p>
