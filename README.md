@@ -16,7 +16,7 @@ Shadow Milk, Bone, or Pierce ... he/it
 <img width="150" height="20" alt="image" src="https://64.media.tumblr.com/79a7aef715c19a7d4b243683e78f2d91/4cc343a9d007d63f-ad/s250x400/81e29c1b142001864fc585e882c55182a4cb7322.gifv">
 
 <p align="right">
-<img src="https://github.com/user-attachments/assets/adc4222e-f41c-418e-85a2-10647c0901a8">
+<img width="200" src="https://github.com/user-attachments/assets/adc4222e-f41c-418e-85a2-10647c0901a8">
 </p>
 
 
