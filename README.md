@@ -1,4 +1,6 @@
-<!-- test -->
+<!-- little note -->
+> [!NOTE]
+> This GitHub was made on laptop. I have no idea what it looks like on mobile, nor do I care
 
 <!-- border top -->
 <div align="center"> 
