@@ -13,8 +13,7 @@
 <img width="150" height="20" alt="image" src="https://64.media.tumblr.com/9a9babd617a4cbea6029a1545b28c777/078cca2e9779fecc-74/s250x400/0abb242b108735a8c10853c9d645e0dc74265a64.webp">
 <img width="150" height="20" alt="image" src="https://64.media.tumblr.com/79a7aef715c19a7d4b243683e78f2d91/4cc343a9d007d63f-ad/s250x400/81e29c1b142001864fc585e882c55182a4cb7322.gifv">
 
-<p align="right">
-<img width="400" src="https://github.com/user-attachments/assets/adc4222e-f41c-418e-85a2-10647c0901a8"> </p> 
+<img align="right" width="400" src="https://github.com/user-attachments/assets/adc4222e-f41c-418e-85a2-10647c0901a8"> </p> 
 <p align="left"> <a> Shadow Milk, Bone, or Pierce ... he/it </a> </p>
 
 
