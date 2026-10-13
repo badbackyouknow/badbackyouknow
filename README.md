@@ -2,14 +2,11 @@
 <img src="https://64.media.tumblr.com/588158f25a83025f9c367a4ed109c862/5983c063df5aee84-54/s1280x1920/f53be16e1c832aeadd1e5faef0200e087eae2b38.pnj">
 
 
-
-
-
 <img align="right" width="400" src="https://github.com/user-attachments/assets/adc4222e-f41c-418e-85a2-10647c0901a8"> </p> 
 
-<img align="center" width="400" src="https://64.media.tumblr.com/e7ca6d3c48d6c62d01e7458ccf29ae6c/cf07a62e0d2a1ebe-13/s400x600/8dc00ff93347004473cc6f4fbefa9f33e4adb38e.gifv">
-
 <p align="center"> <a> Shadow Milk, Bone, or Pierce ... he/it </a> </p>
+
+<img align="center" width="400" src="https://64.media.tumblr.com/e7ca6d3c48d6c62d01e7458ccf29ae6c/cf07a62e0d2a1ebe-13/s400x600/8dc00ff93347004473cc6f4fbefa9f33e4adb38e.gifv">
 
 <p align="center">
 <details>
