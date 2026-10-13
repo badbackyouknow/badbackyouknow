@@ -14,6 +14,9 @@
 <img width="150" height="20" alt="image" src="https://64.media.tumblr.com/79a7aef715c19a7d4b243683e78f2d91/4cc343a9d007d63f-ad/s250x400/81e29c1b142001864fc585e882c55182a4cb7322.gifv">
 
 <img align="right" width="400" src="https://github.com/user-attachments/assets/adc4222e-f41c-418e-85a2-10647c0901a8"> </p> 
+
+<img align="center" src="https://64.media.tumblr.com/e7ca6d3c48d6c62d01e7458ccf29ae6c/cf07a62e0d2a1ebe-13/s400x600/8dc00ff93347004473cc6f4fbefa9f33e4adb38e.gifv">
+
 <p align="center"> <a> Shadow Milk, Bone, or Pierce ... he/it </a> </p>
 
 
