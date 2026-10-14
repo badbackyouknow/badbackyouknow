@@ -31,8 +31,7 @@
 <img width="150" height="20" alt="image" src="https://64.media.tumblr.com/02ec18495084d57d3c05ce7fb7eb335d/4a90efbd82875386-75/s250x400/7d019ffe2a62ddc4b60c6067d92e8d27b6b8f998.gifv">
 <img width="150" height="20" alt="image" src="https://64.media.tumblr.com/4f50377e6237e1f5e66d1d25e1675950/b4efadd60ae6c6cc-7e/s250x400/b8325986a2f3c7df734c9e53ca43dd626bc1678c.gifv">
 
-<!-- userbox -->
-<img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/78247b8f-737d-4b43-8b88-241647e7ce70">
+
 
 
 <!-- border bottom -->
